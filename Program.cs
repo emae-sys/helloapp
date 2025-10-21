@@ -10,7 +10,7 @@ namespace pepe
         }
         public static void Main()
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("hello everyone");
         }
     }
 }

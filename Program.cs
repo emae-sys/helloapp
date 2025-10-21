@@ -16,6 +16,8 @@ namespace pepe
         public static void Main()
         {
             Console.WriteLine("hello everyone");
+            greetBlack();
+            greetWhite();
         }
     }
 }
